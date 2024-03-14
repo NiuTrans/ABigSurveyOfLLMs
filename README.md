@@ -1,30 +1,10 @@
  # A Survey of LLM Surveys
 
-<div align='center'>
-  <img src=https://img.shields.io/badge/LLMs_Survey-blue.svg >
-  <img src=https://img.shields.io/badge/release-v1-orange.svg >
-  <img src=https://img.shields.io/github/stars/NiuTrans/ABigSurvey >
-</div>
-
---------------------------------------------------------------------------------
-
-- ... to do ...
-
-- We also survey hundreds of survey papers on Natural Language Processing and Machine Learning [[A Survey of Surveys (NLP & ML)](https://github.com/NiuTrans/ABigSurvey?tab=readme-ov-file#large-language-models)] ![GitHub Repo stars](https://img.shields.io/github/stars/NiuTrans/ABigSurvey)
-
-<details><summary>🚀Updates</summary>
-
-| Version | Time | Content |
-| ------------------------ | ---------- | ------------------------------------------------------------ |
-| V1                       | 2024/03/08 | The initial version.                                         |
-</details>
-
+Large language models (LLMs) are making sweeping advances across many fields of artificial intelligence. As a result, research interest and progress in LLMs have exploded. There are now hundreds of research papers published in various conferences or posted to open-access archives every day. Given the significant growth in LLM-related papers, this work compiles surveys on LLMs to provide a comprehensive overview of the field. Most of these surveys have been published or posted in the past few years, so this collection is relatively new. We hope that this compilation can be helpful for anyone who wants to get a quick understanding of the field.
 
 <!-- :new: We add a NEW category of large language models! [<a href="#large-language-models">Large Language Models</a>] -->
 
-## Categorization
-
-We follow the concerning track and hot topic on **Large Language Modeling** research recently. The categorization is as follows:
+## Outline
 <!-- + Large Language Modeling
     + <a href="#alignment">Alignment</a>
     + <a href="#data">Data</a>
@@ -152,7 +132,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 | V1                       | 2023/03/31 | The initial version.                                         |
 </details> -->
 
-## 📜 Survey List
+## Survey List
 
 #### ﻿General Surveys<a id="section1"></a>
 
@@ -866,9 +846,7 @@ Please feel free to contact us if you have any questions (libei_neu [at] outlook
 
 ## Acknowledge
 
-We would like to thank the people who have contributed to this project. They are
+We would like to thank the people who have contributed to this project. The core contributors are
 
 *Junhao Ruan, Long Meng, Weiqiao Shan, Tong Xiao, Jingbo Zhu*
 
-
-<!-- *Chuanhao Lv, Kaiyan Chang, Ziyang Wang, Shuhan Zhou, Nuo Xu, Bei Li, Yinqiao Li, Quan Du, Xin Zeng, Laohu Wang, Chenglong Wang, Xiaoqian Liu, Xuanjun Zhou, Jingnan Zhang, Yongyu Mu, Zefan Zhou, Yanhong Jiang, Xinyang Zhu, Xingyu Liu, Dong Bi, Ping Xu, Zijian Li, Fengning Tian, Hui Liu, Kai Feng, Yuhao Zhang, Chi Hu, Di Yang, Lei Zheng, Hexuan Chen, Zeyang Wang, Tengbo Liu, Xia Meng, Weiqiao Shan, Tao Zhou, Runzhe Cao, Yingfeng Luo, Binghao Wei, Wandi Xu, Yan Zhang, Yichao Wang, Mengyu Ma, Zihao Liu* -->
