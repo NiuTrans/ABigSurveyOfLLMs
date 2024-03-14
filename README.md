@@ -52,7 +52,7 @@ Large language models (LLMs) are making sweeping advances across many fields of 
 					- [LMs with tools](#lms-withtools)
 					- [LMs and interactions](#lms-andinteractions)
 			- [Long Sequence Generation of LMs](#long-sequence-generation-of-lms)
-			- [LMs Applications](#lms-applications)
+			- [LM Applications](#lm-applications)
 					- [Interdisciplinary field](#interdisciplinary-field)
 					- [CS field](#cs-field)
 					- [Other field](#other-field)
@@ -628,7 +628,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 	*Liang Zhao, Xiaocheng Feng, Xiachong Feng, Bing Qin, Ting Liu* [[Paper](https://arxiv.org/abs/2312.17044)]
 
-#### LLMs Applications<a id="section26"></a>
+#### LLM Applications<a id="section26"></a>
 
 ###### Education<a id="section27"></a>
 
