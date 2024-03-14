@@ -1,4 +1,4 @@
- # A Survey of Surveys (LLMs)
+ # A Survey of LLM Surveys
 
 <div align='center'>
   <img src=https://img.shields.io/badge/LLMs_Survey-blue.svg >
@@ -152,7 +152,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 | V1                       | 2023/03/31 | The initial version.                                         |
 </details> -->
 
-## 📜 The LLMs Paper List
+## 📜 Survey List
 
 #### ﻿General Surveys<a id="section1"></a>
 
