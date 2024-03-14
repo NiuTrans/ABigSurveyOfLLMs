@@ -85,7 +85,7 @@ Large language models (LLMs) are making sweeping advances across many fields of 
 	+ [LLMs with Tools](#section23)
 	+ [LLMs and Interactions](#section24)
 + [Long Sequence LLMs](#section25)
-+ [LLMs Applications](#section26)
++ [LLM Applications](#section26)
 	+ [Education](#section27)
 	+ [Law](#section28)
 	+ [Health](#section29)
