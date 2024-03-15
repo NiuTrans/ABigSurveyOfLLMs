@@ -347,7 +347,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 - **Augmented Language Models: a Survey**, arXiv 2023.02 [[Paper](https://arxiv.org/abs/2302.07842)]
 
-- **A Survey on Language Models for Code**, arXiv 2023.11 [[Paper](https://arxiv.org/abs/2311.07989)] [[GitHub](https://github.com/codefuse-ai/Awesome-Code-LLM)]
+- **Unifying the Perspectives of NLP and Software Engineering: A Survey on Language Models for Code**, arXiv 2024.01 [[Paper](https://arxiv.org/abs/2311.07989)] [[GitHub](https://github.com/codefuse-ai/Awesome-Code-LLM)]
 
 - **Pitfalls in Language Models for Code Intelligence: A Taxonomy and Survey**, arXiv 2023.10 [[Paper](https://arxiv.org/abs/2310.17903)] [[GitHub](https://github.com/yueyueL/ReliableLM4Code)]
 
