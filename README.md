@@ -481,7 +481,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 - **The future of gpt: A taxonomy of existing chatgpt research, current challenges, and possible future directions**, SSRN 2023.04 [[Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4413921)]
 
-- **Summary of ChatGPT-Related Research and Perspective Towards the Future of Large Language Models**, Meta-Radiology 2023.08 [[Paper](https://www.sciencedirect.com/science/article/pii/S2950162823000176)]
+- **Summary of ChatGPT-Related Research and Perspective Towards the Future of Large Language Models**, Meta-Radiology 2023.09 [[Paper](https://www.sciencedirect.com/science/article/pii/S2950162823000176)]
 
 
 
