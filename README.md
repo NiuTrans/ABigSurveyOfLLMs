@@ -175,11 +175,11 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 #### Data<a id="section9"></a>
 
-- **Data Management For Large Language Models: A Survey**, arXiv 2023.12 [[Paper](https://arxiv.org/pdf/2312.01700)] [[GitHub](https://github.com/ZigeW/data_management_LLM)]
+- **Data Management For Large Language Models: A Survey**, arXiv 2023.12 [[Paper](https://arxiv.org/abs/2312.01700)] [[GitHub](https://github.com/ZigeW/data_management_LLM)]
 
-- **A Survey on Data Selection for Language Models**, arXiv 2024.02 [[Paper](https://arxiv.org/pdf/2402.16827.pdf)]
+- **A Survey on Data Selection for Language Models**, arXiv 2024.02 [[Paper](https://arxiv.org/abs/2402.16827)]
 
-- **Datasets for Large Language Models: A Comprehensive Survey**, arXiv 2024.02 [[Paper](https://arxiv.org/pdf/2402.18041.pdf)] [[GitHub](https://github.com/lmmlzn/Awesome-LLMs-Datasets)]
+- **Datasets for Large Language Models: A Comprehensive Survey**, arXiv 2024.02 [[Paper](https://arxiv.org/abs/2402.18041)] [[GitHub](https://github.com/lmmlzn/Awesome-LLMs-Datasets)]
 
 - **Large Language Models for Data Annotation: A Survey**, arXiv 2024.02 [[Paper](https://arxiv.org/abs/2402.13446)] [[GitHub](https://github.com/Zhen-Tan-dmml/LLM4Annotation)]
 
@@ -187,7 +187,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 #### Evaluation<a id="section10"></a>
 
-- **Evaluating Large Language Models: A Comprehensive Survey**, arXiv 2023.10 [[Paper](https://arxiv.org/pdf/2310.19736.pdf)] [[GitHub](https://github.com/tjunlp-lab/Awesome-LLMs-Evaluation-Papers)]
+- **Evaluating Large Language Models: A Comprehensive Survey**, arXiv 2023.10 [[Paper](https://arxiv.org/abs/2310.19736)] [[GitHub](https://github.com/tjunlp-lab/Awesome-LLMs-Evaluation-Papers)]
 
 - **A Survey on Evaluation of Large Language Models**, arXiv 2023.07 [[Paper](https://arxiv.org/abs/2307.03109)] [[GitHub](https://github.com/MLGroupJLU/LLM-eval-survey)]
 
@@ -219,9 +219,9 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 ###### Security<a id="section14"></a>
 
-- **Survey of Vulnerabilities in Large Language Models Revealed by Adversarial Attacks**, arXiv 2023.10 [[Paper](https://arxiv.org/pdf/2310.10844.pdf)]
+- **Survey of Vulnerabilities in Large Language Models Revealed by Adversarial Attacks**, arXiv 2023.10 [[Paper](https://arxiv.org/abs/2310.10844)]
 
-- **A Survey on Large Language Model (LLM) Security and Privacy: The Good, the Bad, and the Ugly**, arXiv 2023.12 [[Paper](https://arxiv.org/pdf/2312.02003)]
+- **A Survey on Large Language Model (LLM) Security and Privacy: The Good, the Bad, and the Ugly**, arXiv 2023.12 [[Paper](https://arxiv.org/abs/2312.02003)]
 
 - **Tricking LLMs into Disobedience: Formalizing, Analyzing, and Detecting Jailbreaks**, arXiv 2023.05 [[Paper](https://arxiv.org/abs/2305.14965)]
 
@@ -231,9 +231,9 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 ###### Hallucinations<a id="section16"></a>
 
-- **Can Knowledge Graphs Reduce Hallucinations in LLMs? : A Survey**, arXiv 2023.11 [[Paper](https://arxiv.org/pdf/2311.07914)]
+- **Can Knowledge Graphs Reduce Hallucinations in LLMs? : A Survey**, arXiv 2023.11 [[Paper](https://arxiv.org/abs/2311.07914)]
 
-- **A Survey on Hallucination in Large Language Models: Principles, Taxonomy, Challenges, and Open Questions**, arXiv 2023.11 [[Paper](https://arxiv.org/pdf/2311.05232)] [[GitHub](https://github.com/LuckyyySTA/Awesome-LLM-hallucination)]
+- **A Survey on Hallucination in Large Language Models: Principles, Taxonomy, Challenges, and Open Questions**, arXiv 2023.11 [[Paper](https://arxiv.org/abs/2311.05232)] [[GitHub](https://github.com/LuckyyySTA/Awesome-LLM-hallucination)]
 
 - **A Survey of Hallucination in “Large” Foundation Models**, arXiv 2023.09 [[Paper](https://arxiv.org/abs/2309.05922)] [[GitHub](https://github.com/vr25/hallucination-foundation-model-survey)]
 
@@ -241,9 +241,9 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 - **Cognitive Mirage: A Review of Hallucinations in Large Language Models**, arXiv 2023.09 [[Paper](https://arxiv.org/abs/2309.06794)] [[GitHub](https://github.com/hongbinye/Cognitive-Mirage-Hallucinations-in-LLMs)]
 
-- **Augmenting LLMs with Knowledge: A survey on hallucination prevention**, arXiv 2023.09 [[Paper](https://arxiv.org/pdf/2309.16459.pdf)]
+- **Augmenting LLMs with Knowledge: A survey on hallucination prevention**, arXiv 2023.09 [[Paper](https://arxiv.org/abs/2309.16459)]
 
-- **A Comprehensive Survey of Hallucination Mitigation Techniques in Large Language Models**, arXiv 2024.01 [[Paper](https://arxiv.org/pdf/2401.01313.pdf)]
+- **A Comprehensive Survey of Hallucination Mitigation Techniques in Large Language Models**, arXiv 2024.01 [[Paper](https://arxiv.org/abs/2401.01313)]
 
 ###### Factuality<a id="section17"></a>
 
@@ -251,19 +251,19 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 - **A Survey on Factuality in Large Language Models: Knowledge, Retrieval and Domain-Specificity**, arXiv 2023.10 [[Paper](https://arxiv.org/abs/2310.07521)] [[GitHub](https://github.com/wangcunxiang/LLM-Factuality-Survey)]
 
-- **Give Me the Facts! A Survey on Factual Knowledge Probing in Pre-trained Language Models**, arXiv 2023.10 [[Paper](https://arxiv.org/pdf/2310.16570.pdf)]
+- **Give Me the Facts! A Survey on Factual Knowledge Probing in Pre-trained Language Models**, arXiv 2023.10 [[Paper](https://arxiv.org/abs/2310.16570)]
 
 #### Attributes of LLMs<a id="section18"></a>
 
 - **Explainability for Large Language Models: A Survey**, arXiv 2023.09 [[Paper](https://arxiv.org/abs/2309.01029)]
 
-- **The Mystery and Fascination of LLMs: A Comprehensive Survey on the Interpretation and Analysis of Emergent Abilitie**, arXiv 2023.11 [[Paper](https://arxiv.org/pdf/2311.00237.pdf)]
+- **The Mystery and Fascination of LLMs: A Comprehensive Survey on the Interpretation and Analysis of Emergent Abilitie**, arXiv 2023.11 [[Paper](https://arxiv.org/abs/2311.00237)]
 
-- **From Understanding to Utilization: A Survey on Explainability for Large Language Models**, arXiv 2024.01 [[Paper](https://arxiv.org/pdf/2401.12874.pdf)]
+- **From Understanding to Utilization: A Survey on Explainability for Large Language Models**, arXiv 2024.01 [[Paper](https://arxiv.org/abs/2401.12874)]
 
-- **A Survey of Large Language Models Attribution**, arXiv 2023.11 [[Paper](https://arxiv.org/pdf/2311.03731)] [[GitHub](https://github.com/HITsz-TMG/awesome-llm-attributions)]
+- **A Survey of Large Language Models Attribution**, arXiv 2023.11 [[Paper](https://arxiv.org/abs/2311.03731)] [[GitHub](https://github.com/HITsz-TMG/awesome-llm-attributions)]
 
-- **A Survey of Language Model Confidence Estimation and Calibration**, arXiv 2023.11 [[Paper](https://arxiv.org/pdf/2311.08298.pdf)]
+- **A Survey of Language Model Confidence Estimation and Calibration**, arXiv 2023.11 [[Paper](https://arxiv.org/abs/2311.08298)]
 
 - **Shortcut Learning of Large Language Models in Natural Language Understanding**, COMMUN ACM 2023.12  [[Paper](https://dl.acm.org/doi/10.1145/3596490)]
 
@@ -279,25 +279,25 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 - **A Survey on Model Compression for Large Language Models**, arXiv 2023.08 [[Paper](https://arxiv.org/abs/2308.07633)]
 
-- **A Comprehensive Survey of Compression Algorithms for Language Models**, arXiv 2024.01 [[Paper](https://arxiv.org/pdf/2401.15347.pdf)]
+- **A Comprehensive Survey of Compression Algorithms for Language Models**, arXiv 2024.01 [[Paper](https://arxiv.org/abs/2401.15347)]
 
-- **A Survey on Knowledge Distillation of Large Language Models**, arXiv 2024.02 [[Paper](https://arxiv.org/pdf/2402.13116.pdf)]
+- **A Survey on Knowledge Distillation of Large Language Models**, arXiv 2024.02 [[Paper](https://arxiv.org/abs/2402.13116)]
 
-- **The Efficiency Spectrum of Large Language Models: An Algorithmic Survey**, arXiv 2023.10 [[Paper](https://arxiv.org/pdf/2310.10844.pdf)] [[GitHub](https://github.com/tding1/Efficient-LLM-Survey)]
+- **The Efficiency Spectrum of Large Language Models: An Algorithmic Survey**, arXiv 2023.10 [[Paper](https://arxiv.org/abs/2310.10844)] [[GitHub](https://github.com/tding1/Efficient-LLM-Survey)]
 
-- **Parameter-Efficient Fine-Tuning Methods for Pretrained Language Models: A Critical Review and Assessment**, arXiv 2023.12 [[Paper](https://arxiv.org/pdf/2312.12148.pdf)]
+- **Parameter-Efficient Fine-Tuning Methods for Pretrained Language Models: A Critical Review and Assessment**, arXiv 2023.12 [[Paper](https://arxiv.org/abs/2312.12148)]
 
-- **Model Compression and Efficient Inference for Large Language Models: A Survey**, arXiv 2024.02 [[Paper](https://arxiv.org/pdf/2402.09748.pdf)]
+- **Model Compression and Efficient Inference for Large Language Models: A Survey**, arXiv 2024.02 [[Paper](https://arxiv.org/abs/2402.09748)]
 
 - **Unlocking Efficiency in Large Language Model Inference: A Comprehensive Survey of Speculative Decoding**, arXiv 2024.01 [[Paper](https://arxiv.org/abs/2401.07851)] [[GitHub](https://github.com/hemingkx/SpeculativeDecodingPapers)]
 
-- **A Survey on Hardware Accelerators for Large Language Models**, arXiv 2024.01 [[Paper](https://arxiv.org/pdf/2401.09890.pdf)]
+- **A Survey on Hardware Accelerators for Large Language Models**, arXiv 2024.01 [[Paper](https://arxiv.org/abs/2401.09890)]
 
 #### Learning Methods for LLMs<a id="section20"></a>
 
-- **Knowledge Unlearning for LLMs: Tasks, Methods, and Challenges**, arXiv 2023.11 [[Paper](https://arxiv.org/pdf/2311.15766)]
+- **Knowledge Unlearning for LLMs: Tasks, Methods, and Challenges**, arXiv 2023.11 [[Paper](https://arxiv.org/abs/2311.15766)]
 
-- **Continual Learning with Pre-Trained Models: A Survey**, arXiv 2024.01 [[Paper](https://arxiv.org/pdf/2401.16386)] [[GitHub](https://github.com/sun-hailong/LAMDA-PILOT)]
+- **Continual Learning with Pre-Trained Models: A Survey**, arXiv 2024.01 [[Paper](https://arxiv.org/abs/2401.16386)] [[GitHub](https://github.com/sun-hailong/LAMDA-PILOT)]
 
 - **Continual Learning for Large Language Models: A Survey**, arXiv 2024.02 [[Paper](https://arxiv.org/abs/2402.01364)]
 
@@ -305,27 +305,27 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 - **Vision-Language Instruction Tuning: A Review and Analysis**, arXiv 2023,11 [[Paper](https://arxiv.org/abs/2311.08172)] [[GitHub](https://github.com/palchenli/VL-Instruction-Tuning)]
 
-- **Large Language Models Meet Computer Vision: A Brief Survey**, arXiv 2023.11 [[Paper](https://arxiv.org/pdf/2311.16673.pdf)]
+- **Large Language Models Meet Computer Vision: A Brief Survey**, arXiv 2023.11 [[Paper](https://arxiv.org/abs/2311.16673)]
 
-- **Foundational Models Defining a New Era in Vision: A Survey and Outlook**, arXiv 2023.07 [[Paper](https://arxiv.org/pdf/2307.13721.pdf)] [[GitHub](https://github.com/awaisrauf/Awesome-CV-Foundational-Models)]
+- **Foundational Models Defining a New Era in Vision: A Survey and Outlook**, arXiv 2023.07 [[Paper](https://arxiv.org/abs/2307.13721)] [[GitHub](https://github.com/awaisrauf/Awesome-CV-Foundational-Models)]
 
-- **Video Understanding with Large Language Models: A Survey**, arXiv 2023.12 [[Paper](https://arxiv.org/pdf/2312.17432.pdf)] [[GitHub](https://github.com/yunlong10/Awesome-LLMs-for-Video-Understanding)]
+- **Video Understanding with Large Language Models: A Survey**, arXiv 2023.12 [[Paper](https://arxiv.org/abs/2312.17432)] [[GitHub](https://github.com/yunlong10/Awesome-LLMs-for-Video-Understanding)]
 
 - **Large Models for Time Series and Spatio-Temporal Data: A Survey and Outlook**, arXiv 2023.10 [[Paper](https://arxiv.org/abs/2310.10196)] [[GitHub](https://github.com/qingsongedu/Awesome-TimeSeries-SpatioTemporal-LM-LLM)]
 
-- **Sparks of large audio models: A survey and outlook**, arXiv 2023.08 [[Paper](https://arxiv.org/pdf/2308.12792.pdf)] [[GitHub](https://github.com/EmulationAI/awesome-large-audio-models)]
+- **Sparks of large audio models: A survey and outlook**, arXiv 2023.08 [[Paper](https://arxiv.org/abs/2308.12792)] [[GitHub](https://github.com/EmulationAI/awesome-large-audio-models)]
 
-- **How to Bridge the Gap between Modalities: A Comprehensive Survey on Multimodal Large Language Model**, arXiv 2023.11 [[Paper](https://arxiv.org/pdf/2311.07594.pdf)]
+- **How to Bridge the Gap between Modalities: A Comprehensive Survey on Multimodal Large Language Model**, arXiv 2023.11 [[Paper](https://arxiv.org/abs/2311.07594)]
 
 - **A Survey on Multimodal Large Language Models**, arXiv 2023.06 [[Paper](https://arxiv.org/abs/2306.13549)]
 
-- **Multimodal Large Language Models: A Survey**, arXiv 2023.11 [[Paper](https://arxiv.org/pdf/2311.13165.pdf)]
+- **Multimodal Large Language Models: A Survey**, arXiv 2023.11 [[Paper](https://arxiv.org/abs/2311.13165)]
 
 #### Knowledge Based LLMs<a id="section22"></a>
 
 ###### Retrieval-Augmented LLMs<a id="section23"></a>
 
-- **Building trust in conversational ai: A comprehensive review and solution architecture for explainable, privacy-aware systems using llms and knowledge graph**, arXiv 2023.08 [[Paper](https://arxiv.org/pdf/2308.13534.pdf)]
+- **Building trust in conversational ai: A comprehensive review and solution architecture for explainable, privacy-aware systems using llms and knowledge graph**, arXiv 2023.08 [[Paper](https://arxiv.org/abs/2308.13534)]
 
 - **A Survey on Retrieval-Augmented Text Generation**, arXiv 2022.02 [[Paper](https://arxiv.org/abs/2202.01110)]
 
@@ -333,9 +333,9 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 ###### Knowledge Editing<a id="section24"></a>
 
-- **Trends in Integration of Knowledge and Large Language Models: A Survey and Taxonomy of Methods, Benchmarks, and Applications**, arXiv 2023.11 [[Paper](https://arxiv.org/pdf/2311.05876.pdf)]
+- **Trends in Integration of Knowledge and Large Language Models: A Survey and Taxonomy of Methods, Benchmarks, and Applications**, arXiv 2023.11 [[Paper](https://arxiv.org/abs/2311.05876)]
 
-- **Knowledge Editing for Large Language Models: A Survey**, arXiv 2023.10 [[Paper](https://arxiv.org/pdf/2310.16218.pdf)]
+- **Knowledge Editing for Large Language Models: A Survey**, arXiv 2023.10 [[Paper](https://arxiv.org/abs/2310.16218)]
 
 - **Editing Large Language Models: Problems, Methods, and Opportunities**, arXiv 2023.05 [[Paper](https://arxiv.org/abs/2305.13172)]
 
@@ -349,7 +349,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 - **A Survey on Language Models for Code**, arXiv 2023.11 [[Paper](https://arxiv.org/abs/2311.07989)] [[GitHub](https://github.com/codefuse-ai/Awesome-Code-LLM)]
 
-- **Pitfalls in Language Models for Code Intelligence: A Taxonomy and Survey**, arXiv 2023.10 [[Paper](https://arxiv.org/pdf/2310.17903.pdf)] [[GitHub](https://github.com/yueyueL/ReliableLM4Code)]
+- **Pitfalls in Language Models for Code Intelligence: A Taxonomy and Survey**, arXiv 2023.10 [[Paper](https://arxiv.org/abs/2310.17903)] [[GitHub](https://github.com/yueyueL/ReliableLM4Code)]
 
 - **Large Language Models Meet NL2Code: A Survey**, arXiv 2022.12 [[Paper](https://arxiv.org/abs/2212.09420)]
 
@@ -365,15 +365,15 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 - **The Rise and Potential of Large Language Model Based Agents: A Survey**, arXiv 2023.09 [[Paper](https://arxiv.org/abs/2309.07864)] [[GitHub](https://github.com/WooooDyy/LLM-Agent-Paper-List)]
 
-- **Large Language Models Empowered Agent-based Modeling and Simulation: A Survey and Perspectives**, arXiv 2023.12  [[Paper](https://arxiv.org/pdf/2312.11970.pdf)]
+- **Large Language Models Empowered Agent-based Modeling and Simulation: A Survey and Perspectives**, arXiv 2023.12  [[Paper](https://arxiv.org/abs/2312.11970)]
 
-- **Large Multimodal Agents: A Survey**, arXiv 2024.02 [[Paper](https://arxiv.org/pdf/2402.15116)] [[GitHub](https://github.com/jun0wanan/awesome-large-multimodal-agents)]
+- **Large Multimodal Agents: A Survey**, arXiv 2024.02 [[Paper](https://arxiv.org/abs/2402.15116)] [[GitHub](https://github.com/jun0wanan/awesome-large-multimodal-agents)]
 
 - **Role play with large language models**, arXiv 2023.11 [[Paper](https://www.nature.com/articles/s41586-023-06647-8)]
 
 #### Long Sequence LLMs<a id="section28"></a>
 
-- **Advancing Transformer Architecture in Long-Context Large Language Models: A Comprehensive Survey**, arXiv 2023.11 [[Paper](https://arxiv.org/pdf/2311.12351)]
+- **Advancing Transformer Architecture in Long-Context Large Language Models: A Comprehensive Survey**, arXiv 2023.11 [[Paper](https://arxiv.org/abs/2311.12351)]
 
 - **Length Extrapolation of Transformers: A Survey from the Perspective of Position Encoding**, arXiv 2023.12 [[Paper](https://arxiv.org/abs/2312.17044)]
 
@@ -433,7 +433,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 - **Recent Advances in Natural Language Processing via Large Pre-Trained Language Models: A Survey**, arXiv 2021.11 [[Paper](https://arxiv.org/abs/2111.01243)]
 
-- **If LLM Is the Wizard, Then Code Is the Wand: A Survey on How Code Empowers Large Language Models to Serve as Intelligent Agents**, arXiv 2024.01 [[Paper](https://arxiv.org/pdf/2401.00812.pdf)]
+- **If LLM Is the Wizard, Then Code Is the Wand: A Survey on How Code Empowers Large Language Models to Serve as Intelligent Agents**, arXiv 2024.01 [[Paper](https://arxiv.org/abs/2401.00812)]
 
 ###### Software Engineering<a id="section35"></a>
 
@@ -459,9 +459,9 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 ###### Graphs<a id="section37"></a>
 
-- **A Survey of Graph Meets Large Language Model: Progress and Future Directions**, arXiv 2023.11 [[Paper](https://arxiv.org/pdf/2311.12399)]
+- **A Survey of Graph Meets Large Language Model: Progress and Future Directions**, arXiv 2023.11 [[Paper](https://arxiv.org/abs/2311.12399)]
 
-- **Large Language Models on Graphs: A Comprehensive Survey**, arXiv 2023.12 [[Paper](https://arxiv.org/pdf/2312.02783.pdf)] [[GitHub](https://github.com/PeterGriffinJin/Awesome-Language-Model-on-Graphs)]
+- **Large Language Models on Graphs: A Comprehensive Survey**, arXiv 2023.12 [[Paper](https://arxiv.org/abs/2312.02783)] [[GitHub](https://github.com/PeterGriffinJin/Awesome-Language-Model-on-Graphs)]
 
 - **The Contribution of Knowledge in Visiolinguistic Learning: A Survey on Tasks and Challenges**, arXiv 2023.03 [[Paper](https://arxiv.org/abs/2303.02411)]
 
