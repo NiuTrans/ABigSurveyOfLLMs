@@ -516,7 +516,7 @@ The project is maintained by
 
 Please feel free to contact us if you have any questions (libei_neu [at] outlook.com). -->
 
-## Acknowledge
+## Acknowledgements
 
 We would like to thank the people who have contributed to this project. The core contributors are
 
