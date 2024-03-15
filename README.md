@@ -347,8 +347,6 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 - **Augmented Language Models: a Survey**, arXiv 2023.02 [[Paper](https://arxiv.org/abs/2302.07842)]
 
-- **Unifying the Perspectives of NLP and Software Engineering: A Survey on Language Models for Code**, arXiv 2024.01 [[Paper](https://arxiv.org/abs/2311.07989)] [[GitHub](https://github.com/codefuse-ai/Awesome-Code-LLM)]
-
 - **Pitfalls in Language Models for Code Intelligence: A Taxonomy and Survey**, arXiv 2023.10 [[Paper](https://arxiv.org/abs/2310.17903)] [[GitHub](https://github.com/yueyueL/ReliableLM4Code)]
 
 - **Large Language Models Meet NL2Code: A Survey**, arXiv 2022.12 [[Paper](https://arxiv.org/abs/2212.09420)]
@@ -442,6 +440,8 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 - **Large Language Models for Software Engineering: A Systematic Literature Review**, arXiv 2023.08 [[Paper](https://arxiv.org/abs/2308.10620)]
 
 - **Software Testing with Large Language Models: Survey, Landscape, and Vision**, arXiv 2023.07 [[Paper](https://arxiv.org/abs/2307.07221)]
+
+- **Unifying the Perspectives of NLP and Software Engineering: A Survey on Language Models for Code**, arXiv 2024.01 [[Paper](https://arxiv.org/abs/2311.07989)] [[GitHub](https://github.com/codefuse-ai/Awesome-Code-LLM)]
 
 ###### Recommender Systems<a id="section36"></a>
 
