@@ -159,8 +159,6 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 - **Towards Better Chain-of-Thought Prompting Strategies: A Survey**, arXiv 2023.10 [[Paper](https://doi.org/10.48550/arXiv.2310.04959)]
 
-- **A Survey of Chain of Thought Reasoning: Advances, Frontiers and Future**, arXiv 2023.09 [[Paper](https://arxiv.org/abs/2309.15402)] [[GitHub](https://github.com/zchuz/CoT-Reasoning-Survey)]
-
 - **Igniting Language Intelligence: The Hitchhiker's Guide From Chain-of-Thought Reasoning to Language Agents**, arXiv 2023.11 [[Paper](https://arxiv.org/abs/2311.11797)] [[GitHub](https://github.com/Zoeyyao27/CoT-Igniting-Agent)]
 
 ###### Prompt Engineering<a id="section7"></a>
@@ -173,7 +171,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 - **Towards Reasoning in Large Language Models: A Survey**, arXiv 2022.12 [[Paper](https://arxiv.org/abs/2212.10403)] [[GitHub](https://github.com/jeffhj/LM-reasoning)]
 
-- **A Survey of Reasoning with Foundation Models**, arXiv 2023.12 [[Paper](https://arxiv.org/pdf/2312.11562.pdf)] [[GitHub](https://github.com/reasoning-survey/Awesome-Reasoning-Foundation-Models)]
+- **A Survey of Reasoning with Foundation Models**, arXiv 2023.12 [[Paper](https://arxiv.org/abs/2312.11562)] [[GitHub](https://github.com/reasoning-survey/Awesome-Reasoning-Foundation-Models)]
 
 #### Data<a id="section9"></a>
 
@@ -191,7 +189,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 - **Evaluating Large Language Models: A Comprehensive Survey**, arXiv 2023.10 [[Paper](https://arxiv.org/pdf/2310.19736.pdf)] [[GitHub](https://github.com/tjunlp-lab/Awesome-LLMs-Evaluation-Papers)]
 
-- **A Survey on Evaluation of Large Language Models**, arXiv 2023.07 [[Paper](https://arxiv.org/abs/2307.03109)] [[GitHub](https://llm-eval.github.io/)]
+- **A Survey on Evaluation of Large Language Models**, arXiv 2023.07 [[Paper](https://arxiv.org/abs/2307.03109)] [[GitHub](https://github.com/MLGroupJLU/LLM-eval-survey)]
 
 - **Baby steps in evaluating the capacities of large language models**, arXiv 2023.06 [[Paper](https://www.nature.com/articles/s44159-023-00211-x)]
 
@@ -237,9 +235,9 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 - **A Survey on Hallucination in Large Language Models: Principles, Taxonomy, Challenges, and Open Questions**, arXiv 2023.11 [[Paper](https://arxiv.org/pdf/2311.05232)] [[GitHub](https://github.com/LuckyyySTA/Awesome-LLM-hallucination)]
 
-- **A Survey of Hallucination in “Large” Foundation Models**, arXiv 2023.09 [[Paper](https://arxiv.org/paper/2309.05922)] [[GitHub](https://github.com/vr25/hallucination-foundation-model-survey)]
+- **A Survey of Hallucination in “Large” Foundation Models**, arXiv 2023.09 [[Paper](https://arxiv.org/abs/2309.05922)] [[GitHub](https://github.com/vr25/hallucination-foundation-model-survey)]
 
-- **Siren's Song in the AI Ocean: A Survey on Hallucination in Large Language Models**, arXiv 2023.09 [[Paper](https://arxiv.org/abs/2309.01219)] [[GitHub](https://github.com/hongbinye/Cognitive-Mirage-Hallucinations-in-LLMs)]
+- **Siren's Song in the AI Ocean: A Survey on Hallucination in Large Language Models**, arXiv 2023.09 [[Paper](https://arxiv.org/abs/2309.01219)] [[GitHub](https://github.com/HillZhang1999/llm-hallucination-survey)]
 
 - **Cognitive Mirage: A Review of Hallucinations in Large Language Models**, arXiv 2023.09 [[Paper](https://arxiv.org/abs/2309.06794)] [[GitHub](https://github.com/hongbinye/Cognitive-Mirage-Hallucinations-in-LLMs)]
 
@@ -349,7 +347,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 - **Augmented Language Models: a Survey**, arXiv 2023.02 [[Paper](https://arxiv.org/abs/2302.07842)]
 
-- **A Survey on Language Models for Code**, arXiv 2023.11 [[Paper](https://arxiv.org/pdf/2311.07989)] [[GitHub](https://github.com/codefuse-ai/Awesome-Code-LLM)]
+- **A Survey on Language Models for Code**, arXiv 2023.11 [[Paper](https://arxiv.org/abs/2311.07989)] [[GitHub](https://github.com/codefuse-ai/Awesome-Code-LLM)]
 
 - **Pitfalls in Language Models for Code Intelligence: A Taxonomy and Survey**, arXiv 2023.10 [[Paper](https://arxiv.org/pdf/2310.17903.pdf)] [[GitHub](https://github.com/yueyueL/ReliableLM4Code)]
 
