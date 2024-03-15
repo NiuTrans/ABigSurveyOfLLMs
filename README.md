@@ -249,7 +249,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 - **Trustworthy LLMs: a Survey and Guideline for Evaluating Large Language Models' Alignment**, arXiv 2023.08 [[Paper](https://arxiv.org/abs/2308.05374)]
 
-- **A Survey on Factuality in Large Language Models: Knowledge, Retrieval and Domain-Specificity**, arXiv 2023.10 [[Paper](https://arxiv.org/abs/2310.07521)] [[GitHub](https://github.com/wangcunxiang/LLM-Factuality-Survey)]
+- **Survey on Factuality in Large Language Models: Knowledge, Retrieval and Domain-Specificity**, arXiv 2023.10 [[Paper](https://arxiv.org/abs/2310.07521)] [[GitHub](https://github.com/wangcunxiang/LLM-Factuality-Survey)]
 
 - **Give Me the Facts! A Survey on Factual Knowledge Probing in Pre-trained Language Models**, arXiv 2023.10 [[Paper](https://arxiv.org/abs/2310.16570)]
 
