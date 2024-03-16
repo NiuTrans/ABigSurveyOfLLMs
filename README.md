@@ -121,7 +121,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 - **A survey of transformers**, arXiv 2022.10 [[Paper](https://www.sciencedirect.com/science/article/pii/S2666651022000146)]
 
-- **Introduction to Transformers: an NLP Perspective**, arXiv 2023.11 [[Paper](https://arxiv.org/abs/2311.17633)]
+- **Introduction to Transformers: an NLP Perspective**, arXiv 2023.11 [[Paper](https://arxiv.org/abs/2311.17633)] [[GitHub](https://github.com/NiuTrans/Introduction-to-Transformers)]
 
 - **Efficient Transformers: A Survey**, arXiv 2022.12 [[Paper](https://dl.acm.org/doi/full/10.1145/3530811)]
 
