@@ -185,6 +185,8 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 - **A Survey on Data Selection for LLM Instruction Tuning**, arXiv 2024.02 [[Paper](https://arxiv.org/abs/2402.05123)]
 
+- **A Survey on Knowledge Distillation of Large Language Models**, arXiv 2024.02 [[Paper](https://arxiv.org/abs/2402.13116)]
+
 #### Evaluation<a id="section10"></a>
 
 - **Evaluating Large Language Models: A Comprehensive Survey**, arXiv 2023.10 [[Paper](https://arxiv.org/abs/2310.19736)] [[GitHub](https://github.com/tjunlp-lab/Awesome-LLMs-Evaluation-Papers)]
