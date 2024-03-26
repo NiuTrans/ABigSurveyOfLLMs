@@ -5,6 +5,7 @@ Large language models (LLMs) are making sweeping advances across many fields of 
 <!-- :new: We add a NEW category of large language models! [<a href="#large-language-models">Large Language Models</a>] -->
 
 ## Outline
+
 <!-- + Large Language Modeling
     + <a href="#alignment">Alignment</a>
     + <a href="#data">Data</a>
@@ -28,40 +29,40 @@ Large language models (LLMs) are making sweeping advances across many fields of 
 + [Transformers](#section2)
 + [Alignment](#section3)
 + [Prompt Learning](#section4)
-	+ [In-context Learning](#section5)
-	+ [Chain of Thought](#section6)
-	+ [Prompt Engineering](#section7)
-	+ [Reasoning](#section8)
+  + [In-context Learning](#section5)
+  + [Chain of Thought](#section6)
+  + [Prompt Engineering](#section7)
+  + [Reasoning](#section8)
 + [Data](#section9)
 + [Evaluation](#section10)
 + [Societal Issues](#section11)
 + [Safety](#section12)
-	+ [Source Detection](#section13)
-	+ [Security](#section14)
+  + [Source Detection](#section13)
+  + [Security](#section14)
 + [Misinformation](#section15)
-	+ [Hallucinations](#section16)
-	+ [Factuality](#section17)
+  + [Hallucinations](#section16)
+  + [Factuality](#section17)
 + [Attributes of LLMs](#section18)
 + [Efficient LLMs](#section19)
 + [Learning Methods for LLMs](#section20)
 + [Multimodal LLMs](#section21)
 + [Knowledge Based LLMs](#section22)
-	+ [Retrieval-Augmented LLMs](#section23)
-	+ [Knowledge Editing](#section24)
+  + [Retrieval-Augmented LLMs](#section23)
+  + [Knowledge Editing](#section24)
 + [Extension of LLMs](#section25)
-	+ [LLMs with Tools](#section26)
-	+ [LLMs and Interactions](#section27)
+  + [LLMs with Tools](#section26)
+  + [LLMs and Interactions](#section27)
 + [Long Sequence LLMs](#section28)
 + [LLMs Applications](#section29)
-	+ [Education](#section30)
-	+ [Law](#section31)
-	+ [Healthcare](#section32)
-	+ [Games](#section33)
-	+ [NLP Tasks](#section34)
-	+ [Software Engineering](#section35)
-	+ [Recommender Systems](#section36)
-	+ [Graphs](#section37)
-	+ [Other](#section38)
+  + [Education](#section30)
+  + [Law](#section31)
+  + [Healthcare](#section32)
+  + [Games](#section33)
+  + [NLP Tasks](#section34)
+  + [Software Engineering](#section35)
+  + [Recommender Systems](#section36)
+  + [Graphs](#section37)
+  + [Other](#section38)
 
 
 
@@ -94,10 +95,10 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 - **GPU Memory**: Peak GPU memory usage in 4-bit quantized training. (bs=1, cutoff_len=1024)
 - We adopt `pre_seq_len=128` for ChatGLM's P-Tuning and `lora_rank=32` for LLaMA-Factory's LoRA tuning.
 
-| Version                  | Time       | Update Content                                               |
-| ------------------------ | ---------- | ------------------------------------------------------------ |
-| V1                       | 2023/03/31 | The initial version.                                         |
-</details> -->
+| Version        | Time       | Update Content       |
+| -------------- | ---------- | -------------------- |
+| V1             | 2023/03/31 | The initial version. |
+| </details> --> |            |                      |
 
 ## Survey List
 
@@ -116,6 +117,8 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 - **A Survey on Large Language Models: Applications, Challenges, Limitations, and Practical Usage**, TechRxiv 2023.07 [[Paper](https://www.techrxiv.org/doi/full/10.36227/techrxiv.23589741.v1)] [[GitHub](https://github.com/anas-zafar/LLM-Survey)]
 
 - **A Comprehensive Survey on Pretrained Foundation Models: A History from BERT to ChatGPT**, arXiv 2023.05 [[Paper](https://arxiv.org/abs/2302.09419)]
+
+- **A Comprehensive Overview of Large Language Models**, arXiv 2023.07 [[Paper](https://arxiv.org/abs/2307.06435v8)] [[GitHub](https://github.com/humza909/LLM_Survey)]
 
 #### Transformers<a id="section2"></a>
 
@@ -343,6 +346,8 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 ###### LLMs with Tools<a id="section26"></a>
 
+- **A Survey of Neural Code Intelligence: Paradigms, Advances and Beyond**, arXiv 2024.03 [[Paper](https://arxiv.org/abs/2403.14734)] [[GitHub](https://github.com/QiushiSun/NCISurvey)]
+
 - **Foundation Models for Decision Making: Problems, Methods, and Opportunities**, arXiv 2023.03 [[Paper](https://arxiv.org/abs/2303.04129)]
 
 - **Augmented Language Models: a Survey**, arXiv 2023.02 [[Paper](https://arxiv.org/abs/2302.07842)]
@@ -493,11 +498,13 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 <!-- ## Star History
 
 <a href="https://star-history.com/#NiuTrans/ABigSurvey&Date">
+
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=HqWu-HITCS/Awesome-LLM-Survey&type=Date&theme=dark" />
     <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=HqWu-HITCS/Awesome-LLM-Survey&type=Date" />
     <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=HqWu-HITCS/Awesome-LLM-Survey&type=Date" />
   </picture>
+
 </a> -->
 <!-- ## ⭐️ Star History
 
