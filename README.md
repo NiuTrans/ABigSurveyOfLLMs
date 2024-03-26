@@ -343,6 +343,8 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 ###### LLMs with Tools<a id="section26"></a>
 
+- **A Survey of Neural Code Intelligence: Paradigms, Advances and Beyond**, arXiv 2024.03 [[Paper](https://arxiv.org/abs/2403.14734)]
+
 - **Foundation Models for Decision Making: Problems, Methods, and Opportunities**, arXiv 2023.03 [[Paper](https://arxiv.org/abs/2303.04129)]
 
 - **Augmented Language Models: a Survey**, arXiv 2023.02 [[Paper](https://arxiv.org/abs/2302.07842)]
