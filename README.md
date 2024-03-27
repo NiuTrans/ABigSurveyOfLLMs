@@ -64,42 +64,6 @@ Large language models (LLMs) are making sweeping advances across many fields of 
   + [Graphs](#section37)
   + [Other](#section38)
 
-
-
-<!-- To reduce class imbalance, we separate some of the hot sub-topics from the original categorization of ACL and ICML submissions. E.g., Named Entity Recognition is a first-level area in our categorization because it is the focus of several surveys. -->
-
-<!-- ## Statistics
-
-We show the number of paper in each area in Figures 1-2.
-
-<p align="center"><img src="https://s2.loli.net/2023/05/26/DUa43miWf5NFlZx.png" width="70%" height="70%"/></p>
-
-<p align="center">Figure 1: # of papers in each NLP area.</p>
-
-Also, we plot paper number as a function of publication year (see Figure 3).
-
-<p align="center"><img src="https://s2.loli.net/2023/05/26/7tMmcRO1lK9N5hF.png" width="70%" height="70%"/></p>
-
-<p align="center">Figure 3: # of papers vs publication year.</p>
-
-In addition, we generate word clouds to show hot topics in these surveys (see Figures 4-5).
-
-<p align="center"><img src="https://s2.loli.net/2023/05/26/6RqNCKBwsEZtA3H.png" width="60%" height="60%"/></p>
-
-<p align="center">Figure 4: The word cloud for NLP.</p> -->
-
-<!-- <details><summary>Definitions</summary>
-
-- **Training Speed**: the number of training samples processed per second during the training. (bs=4, cutoff_len=1024)
-- **Rouge Score**: Rouge-2 score on the development set of the [advertising text generation](https://aclanthology.org/D19-1321.pdf) task. (bs=4, cutoff_len=1024)
-- **GPU Memory**: Peak GPU memory usage in 4-bit quantized training. (bs=1, cutoff_len=1024)
-- We adopt `pre_seq_len=128` for ChatGLM's P-Tuning and `lora_rank=32` for LLaMA-Factory's LoRA tuning.
-
-| Version        | Time       | Update Content       |
-| -------------- | ---------- | -------------------- |
-| V1             | 2023/03/31 | The initial version. |
-| </details> --> |            |                      |
-
 ## Survey List
 
 #### General Surveys<a id="section1"></a>
