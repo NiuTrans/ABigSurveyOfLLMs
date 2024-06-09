@@ -84,6 +84,8 @@ Large language models (LLMs) are making sweeping advances across many fields of 
 
 - **A Comprehensive Overview of Large Language Models**, arXiv 2023.07 [[Paper](https://arxiv.org/abs/2307.06435v8)] [[GitHub](https://github.com/humza909/LLM_Survey)]
 
+- **Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing**, ACM Computing Surveys 2023.01 [[Paper](https://dl.acm.org/doi/full/10.1145/3560815)]
+
 #### Transformers<a id="section2"></a>
 
 - **A survey of transformers**, arXiv 2022.10 [[Paper](https://www.sciencedirect.com/science/article/pii/S2666651022000146)]
