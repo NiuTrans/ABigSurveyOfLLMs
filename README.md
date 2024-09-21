@@ -270,6 +270,8 @@ Large language models (LLMs) are making sweeping advances across many fields of 
 
 - **Continual Learning for Large Language Models: A Survey**, arXiv 2024.02 [[Paper](https://arxiv.org/abs/2402.01364)]
 
+- **Scaling Down to Scale Up: A Guide to Parameter-Efficient Fine-Tuning**, arXiv 2023.03 [[Paper](https://arxiv.org/pdf/2303.15647)]
+
 #### Multimodal LLMs<a id="section21"></a>
 
 - **Vision-Language Instruction Tuning: A Review and Analysis**, arXiv 2023,11 [[Paper](https://arxiv.org/abs/2311.08172)] [[GitHub](https://github.com/palchenli/VL-Instruction-Tuning)]
