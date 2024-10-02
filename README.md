@@ -190,6 +190,8 @@ Large language models (LLMs) are making sweeping advances across many fields of 
 
 ###### Security<a id="section14"></a>
 
+- **Security and Privacy Challenges of Large Language Models: A Survey**, arXiv 2024.01 [[Paper](https://arxiv.org/abs/2402.00888)]
+
 - **Survey of Vulnerabilities in Large Language Models Revealed by Adversarial Attacks**, arXiv 2023.10 [[Paper](https://arxiv.org/abs/2310.10844)]
 
 - **A Survey on Large Language Model (LLM) Security and Privacy: The Good, the Bad, and the Ugly**, arXiv 2023.12 [[Paper](https://arxiv.org/abs/2312.02003)]
