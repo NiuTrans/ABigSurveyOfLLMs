@@ -74,6 +74,8 @@ Large language models (LLMs) are making sweeping advances across many fields of 
 
 - **A Survey of Large Language Models**, arXiv 2023.11 [[Paper](https://arxiv.org/abs/2303.18223)] [[GitHub](https://github.com/RUCAIBox/LLMSurvey)]
 
+- **Foundations of Large Language Models**, arXiv 2025.01 [[paper](https://arxiv.org/abs/2501.09223)]
+
 - **Challenges and Applications of Large Language Models**, arXiv 2023.07 [[Paper](https://arxiv.org/abs/2307.10169)]
 
 - **Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond**, arXiv 2023.04 [[Paper](https://arxiv.org/abs/2304.13712)] [[GitHub](https://github.com/Mooler0410/LLMsPracticalGuide)]
